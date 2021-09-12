@@ -1,5 +1,6 @@
 # soundsphere-resources
-noto fonts: https://github.com/googlefonts/noto-cjk  
-sourcecodepro fonts: https://github.com/adobe-fonts/source-code-pro  
-material icons: https://github.com/google/material-design-icons  
+noto fonts:  
+https://www.google.com/get/noto/help/cjk/  
+https://www.google.com/get/noto/  
+  
 midi background: awemanrank100#9373
